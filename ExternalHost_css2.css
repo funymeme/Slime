@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/atma/v16/uK_z4rqWc-Eoo8JzKjc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/atma/v16/uK_84rqWc-Eom24.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/atma/v16/uK_z4rqWc-Eoo5pyKjc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/atma/v16/uK_z4rqWc-Eoo7Z1Kjc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/atma/v16/uK_z4rqWc-Eoo9J0Kjc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Vibur';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/vibur/v23/DPEiYwmEzw0QRjTp.ttf) format('truetype');
+}
